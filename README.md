@@ -9,7 +9,7 @@
 Голосовой ввод для Mac, который работает на вашем компьютере,<br>
 учится вашей речи и хранит сказанное зашифрованным.
 
-[![Скачать для Mac](https://img.shields.io/badge/Скачать_для_Mac-1.0.0-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/and-ray-m/Bespeak.app/releases/latest)
+[![Скачать для Mac](https://img.shields.io/badge/Скачать_для_Mac-1.0.1-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/and-ray-m/Bespeak.app/releases/latest)
 &nbsp;
 [![Поддержать проект](https://img.shields.io/badge/Поддержать_проект-чаевые-555555?style=for-the-badge)](https://pay.cloudtips.ru/p/587746f6)
 
